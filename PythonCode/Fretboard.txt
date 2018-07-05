@@ -1,0 +1,152 @@
+FRETBOARD
+</tr>
+<tr>
+<td>E </td>
+<td>F </td>
+<td>F#</td>
+<td>G </td>
+<td>G#</td>
+<td>A </td>
+<td>A#</td>
+<td>B </td>
+<td>C </td>
+<td>C#</td>
+<td>D </td>
+<td>D#</td>
+<td>E </td>
+<td>F </td>
+<td>F#</td>
+<td>G </td>
+<td>G#</td>
+<td>A </td>
+<td>A#</td>
+<td>B </td>
+<td>C </td>
+<td>C#</td>
+<td>D </td>
+</tr>
+<tr>
+<td>B </td>
+<td>C </td>
+<td>C#</td>
+<td>D </td>
+<td>D#</td>
+<td>E </td>
+<td>F </td>
+<td>F#</td>
+<td>G </td>
+<td>G#</td>
+<td>A </td>
+<td>A#</td>
+<td>B </td>
+<td>C </td>
+<td>C#</td>
+<td>D </td>
+<td>D#</td>
+<td>E </td>
+<td>F </td>
+<td>F#</td>
+<td>G </td>
+<td>G#</td>
+<td>A </td>
+</tr>
+<tr>
+<td>G </td>
+<td>G#</td>
+<td>A </td>
+<td>A#</td>
+<td>B </td>
+<td>C </td>
+<td>C#</td>
+<td>D </td>
+<td>D#</td>
+<td>E </td>
+<td>F </td>
+<td>F#</td>
+<td>G </td>
+<td>G#</td>
+<td>A </td>
+<td>A#</td>
+<td>B </td>
+<td>C </td>
+<td>C#</td>
+<td>D </td>
+<td>D#</td>
+<td>E </td>
+<td>F </td>
+</tr>
+<tr>
+<td>D </td>
+<td>D#</td>
+<td>E </td>
+<td>F </td>
+<td>F#</td>
+<td>G </td>
+<td>G#</td>
+<td>A </td>
+<td>A#</td>
+<td>B </td>
+<td>C </td>
+<td>C#</td>
+<td>D </td>
+<td>D#</td>
+<td>E </td>
+<td>F </td>
+<td>F#</td>
+<td>G </td>
+<td>G#</td>
+<td>A </td>
+<td>A#</td>
+<td>B </td>
+<td>C </td>
+</tr>
+<tr>
+<td>A </td>
+<td>A#</td>
+<td>B </td>
+<td>C </td>
+<td>C#</td>
+<td>D </td>
+<td>D#</td>
+<td>E </td>
+<td>F </td>
+<td>F#</td>
+<td>G </td>
+<td>G#</td>
+<td>A </td>
+<td>A#</td>
+<td>B </td>
+<td>C </td>
+<td>C#</td>
+<td>D </td>
+<td>D#</td>
+<td>E </td>
+<td>F </td>
+<td>F#</td>
+<td>G </td>
+</tr>
+<tr>
+<td>E </td>
+<td>F </td>
+<td>F#</td>
+<td>G </td>
+<td>G#</td>
+<td>A </td>
+<td>A#</td>
+<td>B </td>
+<td>C </td>
+<td>C#</td>
+<td>D </td>
+<td>D#</td>
+<td>E </td>
+<td>F </td>
+<td>F#</td>
+<td>G </td>
+<td>G#</td>
+<td>A </td>
+<td>A#</td>
+<td>B </td>
+<td>C </td>
+<td>C#</td>
+<td>D </td>
+</tr>

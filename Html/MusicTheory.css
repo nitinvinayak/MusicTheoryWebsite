@@ -1,0 +1,16 @@
+body{
+  background:url(Guitar.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+span{
+  color: blue;
+}
+h1{
+  text-align: center;
+}
+td{
+  font-weight: bold;
+  height: 20px;
+  width: 20px;
+}
