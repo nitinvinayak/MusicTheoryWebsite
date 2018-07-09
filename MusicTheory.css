@@ -4,7 +4,16 @@ td{
 }
 h1{
   color: blue;
+  text-align: center;
 }
 a{
   text-decoration: none;
+}
+p{
+  color: black;
+}
+button{
+  height: 20px;
+  width: 48px;
+  
 }
